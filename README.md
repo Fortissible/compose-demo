@@ -1,2 +1,2 @@
 # compose-demo
- Implementing Simple UI Compontent, Compose Nav Components and simple API Data Fetching
+ Implementing Simple UI Component, Compose Nav Components and simple API Data Fetching
